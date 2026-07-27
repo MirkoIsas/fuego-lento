@@ -1,0 +1,12 @@
+{
+  "name": "fuego-lento",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fuego Lento — parrilla argentina en San Telmo. Sitio estático con backend serverless (Vercel Functions) para reservas y delivery.",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
